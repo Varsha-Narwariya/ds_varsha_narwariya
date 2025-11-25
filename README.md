@@ -7,14 +7,13 @@
 ## 📁 Project Structure
 
 ds_varsha_narwariya/
-├── notebook_1.ipynb # Main Google Colab notebook with full analysis
-├── notebook_2.ipynb # (Optional) Additional notebook
-├── csv_files/ # Uploaded + processed CSV data
+├── notebook_1.ipynb 
+├── csv_files/ 
 │ └── *.csv
-├── outputs/ # All generated charts, graphs, images
+├── outputs/
 │ └── *.png / *.jpg
-├── ds_report.pdf # Final project report with insights
-└── README.md # Instructions & documentation
+├── ds_report.pdf 
+└── README.md 
 
 
 ---
@@ -58,7 +57,7 @@ from pathlib import Path
 
 No external libraries beyond standard data science stack are required.
 
-▶️ How to Run the Notebook
+### **4. How to Run the Notebook**
 
 Open notebook_1.ipynb in Google Colab
 Run all cells sequentially
