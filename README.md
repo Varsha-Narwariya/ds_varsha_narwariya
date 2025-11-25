@@ -56,20 +56,3 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
 
-▶️ How to Run the Notebook
-
-Open notebook_1.ipynb in Google Colab
-
-Run all cells sequentially
-
-The notebook will:
-
-Load and clean datasets
-
-Merge sentiment with trading data
-
-Generate proxy leverage metric
-
-Produce correlation & behavioral insights
-
-Export all graphs automatically to /outputs/
