@@ -7,12 +7,19 @@
 ## 📁 Project Structure
 
 ds_varsha_narwariya/
+
 ├── notebook_1.ipynb 
-├── csv_files/ 
+
+├── csv_files/
+
 │ └── *.csv
+
 ├── outputs/
+
 │ └── *.png / *.jpg
+
 ├── ds_report.pdf 
+
 └── README.md 
 
 
