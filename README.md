@@ -21,13 +21,21 @@ You can download and extract it to view all notebooks, data outputs, and the fin
 
 Once extracted, the folder will look like:
 ds_varsha_narwariya/
+
 ├── notebook_1.ipynb
+
 ├── csv_files/
+
 │ └── *.csv
+
 ├── outputs/
+
 │ └── *.png / *.jpg
+
 ├── ds_report.pdf 
+
 ├── insights_summary
+
 └── README.md # Instructions & documentation
 
 
