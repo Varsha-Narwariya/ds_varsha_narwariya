@@ -56,38 +56,3 @@ import seaborn as sns
 from pathlib import Path
 
 No external libraries beyond standard data science stack are required.
-
-### **4. How to Run the Notebook**
-
-Open notebook_1.ipynb in Google Colab
-Run all cells sequentially
-The notebook will:
-Load and clean datasets
-Merge sentiment with trading data
-Generate proxy leverage metric
-Produce correlation & behavioral insights
-Export all graphs automatically to /outputs/
-
-📊 Outputs Generated
-
-All charts and insights are automatically saved inside:
-/outputs/
-
-🧠 Key Analysis
-
-The notebook includes:
-Sentiment → PnL relationships
-Behavioral patterns during Fear vs Greed
-Distribution of trade sizes, prices, and leverage
-Symbol-level trading activity
-Time-series trends for volatility & trading intensity
-Proxy leverage estimation due to missing leverage field
-
-📄 Final Report
-
-All insights, visuals, and summary findings are documented in:
-ds_report.pdf
-
-🤝 Contact
-
-For any clarification or feedback, feel free to reach out.
